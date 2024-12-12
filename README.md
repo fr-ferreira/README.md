@@ -6,6 +6,12 @@ Bem-vindo ao meu repositório!! **Fábio Ferreira**! 🎉
 Aqui você pode navegar  ver meus projetos.
 
 ---
+# 🚀 Meu Linkedin
+
+- [LinkedIn] (https://www.linkedin.com/in/fr-ferreira/)
+---
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 - [Angular](https://angular.io/)
